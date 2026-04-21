@@ -26,8 +26,8 @@ The pipeline combines **unsupervised clustering** to group countries by macroeco
 | Name | Role |
 |------|------|
 | **Stephen Adu Poku Yeboah** | Data preprocessing (GEM dataset), SARIMAX modelling & forecasting |
-| Emmanuel Ampah | Data preprocessing (Global Economy Indicators), EDA |
-| Jan Zanini | Clustering analysis, Prophet modelling, results interpretation |
+| Emmanuel Ampah | Data preprocessing (Global Economy Indicators), EDA, Prophet modelling,  SARIMAX modelling |
+| Jan Zanini | Clustering analysis, results interpretation |
 
 ---
 
